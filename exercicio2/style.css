@@ -1,0 +1,17 @@
+ header{
+    background-color: violet;
+    height: 10vh;
+    position: sticky;
+    top: 0;
+ }
+ main{
+    background-color: brown;
+    height: 150vh;
+ }
+
+ footer {
+    background-color: blueviolet;
+    height: 10vh;
+    position: static;
+ }
+
